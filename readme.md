@@ -165,12 +165,21 @@ Modern blogging platform with authentication, CRUD functionality, comments, like
 
 ---
 
+<h2 align="center">🔥 My Coding Journey</h2>
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/demo/green.gif" width="750"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
 <div align="center">
 
 ### ⭐ "Building software that solves real-world problems."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
-<p align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/demo/green.gif" />
-</p>
+
 </div>
+
