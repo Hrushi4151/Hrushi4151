@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00c6ff,100:0072ff&text=Hrushikesh%20More&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Hrushikesh+More;Full+Stack+Developer;AI+%26+ML+Student;MERN+Stack+Developer;Flutter+Developer;Always+Learning+New+Technologies"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I%27m+Hrushikesh+More;Full+Stack+Developer;AI+and+ML+Student;MERN+Stack+Developer;Flutter+Developer;Always+Learning+New+Technologies" />
+</p>
 
 </div>
 
