@@ -184,7 +184,7 @@ Modern blogging platform with authentication, CRUD functionality, comments, like
 
 <h2 align="center">🔥 My Coding Journey</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hrushi4151/Hrushi4151/output/github-snake.svg" width="750"/>
+  <img src="github-snake (1).svg" width="750"/>
 </p>
 
 <div align="center">
