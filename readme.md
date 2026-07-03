@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Hrushikesh+More;Full+Stack+Developer;AI+%26+ML+Student;MERN+Stack+Developer;Flutter+Developer;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=Hrushi4151&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
