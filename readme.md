@@ -171,9 +171,6 @@ Modern blogging platform with authentication, CRUD functionality, comments, like
   <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/demo/green.gif" width="750"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenverCoder1&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
 
 <div align="center">
 
